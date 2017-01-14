@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhangzju/myNprogress/issues"
   },
-  "homepage": "https://github.com/zhangzju/myNprogress#readme"
+  "homepage": "https://github.com/zhangzju/myNprogress#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.4"
+  }
 }
