@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhangzju/myNprogress/issues"
   },
-  "homepage": "https://github.com/zhangzju/myNprogress#readme"
+  "homepage": "https://github.com/zhangzju/myNprogress#readme",
+  "dependencies": {
+    "nprogress": "^0.2.0"
+  }
 }
